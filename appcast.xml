@@ -8,7 +8,7 @@
             <sparkle:version>0.2</sparkle:version>
             <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
             <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Bank-St/Anovy-Apple-App/releases/download/v0.2/anovy.dmg" length="39441894" type="application/octet-stream" sparkle:edSignature="rG0MZTQHkrUJdYuOK+jZ8RElIqlcPXUJfLZDuFsalXdIzNAs7Z/tgfNGW//VdOXaFyb6CLctZ0Ln39bQ8LyTBw=="/>
+            <enclosure url="https://github.com/Bank-St/Anovy-Apple-App/releases/download/prod/anovy.dmg" length="39441894" type="application/octet-stream" sparkle:edSignature="rG0MZTQHkrUJdYuOK+jZ8RElIqlcPXUJfLZDuFsalXdIzNAs7Z/tgfNGW//VdOXaFyb6CLctZ0Ln39bQ8LyTBw=="/>
         </item>
     </channel>
 </rss>
