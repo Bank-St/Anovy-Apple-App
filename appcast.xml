@@ -1,14 +1,20 @@
-<?xml version="1.0" standalone="yes"?>
-<rss xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle" version="2.0">
-    <channel>
-        <title>Anovy-Orca-Apple</title>
-        <item>
-            <title>0.2</title>
-            <pubDate>Tue, 04 Nov 2025 21:03:04 -0500</pubDate>
-            <sparkle:version>0.2</sparkle:version>
-            <sparkle:shortVersionString>0.2</sparkle:shortVersionString>
-            <sparkle:minimumSystemVersion>14.6</sparkle:minimumSystemVersion>
-            <enclosure url="https://github.com/Bank-St/Anovy-Apple-App/releases/download/prod/anovy.dmg" length="39441894" type="application/octet-stream" sparkle:edSignature="rG0MZTQHkrUJdYuOK+jZ8RElIqlcPXUJfLZDuFsalXdIzNAs7Z/tgfNGW//VdOXaFyb6CLctZ0Ln39bQ8LyTBw=="/>
-        </item>
-    </channel>
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:sparkle="http://www.andymatuschak.org/xml-namespaces/sparkle">
+  <channel>
+    <title>Anovy-Orca-Apple Updates</title>
+    <language>en</language>
+    <item>
+      <title>Version 1.0.5</title>
+      <pubDate>Thu, 06 Nov 2025 03:28:06 +0000</pubDate>
+      <sparkle:version>1.0.5</sparkle:version>
+      <sparkle:shortVersionString>1.0.5</sparkle:shortVersionString>
+      <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+      <enclosure 
+        url="https://github.com/Bank-St/Anovy-Apple-App/releases/download/prod/anovy.dmg"
+        sparkle:edSignature="sparkle:edSignature="0FEVCEFv4PO3HVNhRsFb/abwEAT+vx0Kg5osW085K5kFtdoKQNGFlyNEFeXDBypr8reoSCO+pHLulveBEp5ZAQ==" length="6223972""
+        length="6223972"
+        type="application/octet-stream"
+      />
+    </item>
+  </channel>
 </rss>
