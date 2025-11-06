@@ -4,12 +4,12 @@
     <title>Anovy-Orca-Apple Updates</title>
     <language>en</language>
     <item>
-      <title>Version 0.0.3</title>
-      <pubDate>Thu, 06 Nov 2025 04:31:49 +0000</pubDate>
-      <sparkle:version>0.0.3</sparkle:version>
-      <sparkle:shortVersionString>0.0.3</sparkle:shortVersionString>
+      <title>Version 0.0.4</title>
+      <pubDate>Thu, 06 Nov 2025 04:47:29 +0000</pubDate>
+      <sparkle:version>0.0.4</sparkle:version>
+      <sparkle:shortVersionString>0.0.4</sparkle:shortVersionString>
       <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
-      <enclosure url="https://github.com/Bank-St/Anovy-Apple-App/releases/download/prod/anovy.dmg" sparkle:edSignature="edSignature=7llp4zetXw/JSJiqHFf60uvdPM/2bFENLlWk8Dr0zsnIUVILWmmaNL2kHfj+2E5qcH7MXR5rM7rY" length="6234705" type="application/octet-stream" />
+      <enclosure url="https://github.com/Bank-St/Anovy-Apple-App/releases/download/prod/anovy.dmg" sparkle:edSignature="A9zUigCOvdx/pcM4J03d9+p0zYNksDVhd2s/7uMFE0KDCdWtswwTYKSNuv+Ii8Bf61TkrSw9WLjORKIIrUZ0Cw==" length="6235299" type="application/octet-stream" />
     </item>
   </channel>
 </rss>
